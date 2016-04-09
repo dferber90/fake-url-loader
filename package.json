@@ -1,6 +1,6 @@
 {
   "name": "fake-url-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like url-loader, but doesn't emit files",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/dferber90/fake-url-loader#readme",
   "dependencies": {
-    "fake-file-loader": "1.0.0",
-    "loader-utils": "0.2.12",
+    "fake-file-loader": "1.0.1",
+    "loader-utils": "0.2.13",
     "mime": "1.3.4"
   }
 }
